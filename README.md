@@ -1,5 +1,9 @@
 # Crowdfund Campaign
 
+<img width="1897" height="868" alt="Screenshot 2026-10-28 155336" src="https://github.com/user-attachments/assets/833454c7-e43a-4624-bfeb-067ff81d6a71" />
+<img width="1907" height="863" alt="image" src="https://github.com/user-attachments/assets/df70ea23-a2f7-4b91-b7f8-6d916f0b1f21" />
+
+
 A local Ethereum crowdfunding dApp built with Solidity, Foundry/Remix tests, Viem, and a plain HTML/CSS/JavaScript frontend.
 
 ## Features
